@@ -27,12 +27,9 @@ object programacionConObjetos {
 
 ### Presentacion Personal
 
-Me llamo ...
+Me llamo Kevin Thomas Avila
 
-Me gusta ...
+Me gusta la programacion,los videojuegos y el futbol
 
-Me dedico a / Trabajo de ...
+Me dedico a estudiar
 
-Les dejo una imagen mía 
-
-![subir archivo de imagen](imagen.jpg)
